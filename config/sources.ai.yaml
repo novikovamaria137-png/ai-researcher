@@ -1,0 +1,25 @@
+# Пресет «AI / tech» — рабочие RSS, проверены при сборке проекта.
+# Запуск: python -m ai_researcher --preset ai --dry-run
+preset: ai
+title: "AI-конкуренты — что нового"
+backend: auto            # auto | extractive | ollama | groq | gemini | openrouter
+max_entries_per_source: 20
+max_new_per_source: 6
+state_path: data/seen.ai.json
+
+sources:
+  - name: OpenAI
+    rss: https://openai.com/news/rss.xml
+    note: продуктовые анонсы и research-посты
+
+  - name: Google DeepMind
+    rss: https://deepmind.google/blog/rss.xml
+    note: research + релизы моделей
+
+  - name: Google AI Blog
+    rss: https://blog.google/technology/ai/rss/
+    note: продуктовая линия Gemini
+
+  - name: Hugging Face
+    rss: https://huggingface.co/blog/feed.xml
+    note: опенсорс-экосистема, что выкатывает комьюнити

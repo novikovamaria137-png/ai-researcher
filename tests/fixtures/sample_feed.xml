@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Competitor A — Blog</title>
+    <link>https://example.com/blog</link>
+    <description>Product news from Competitor A</description>
+    <item>
+      <guid>https://example.com/a1</guid>
+      <title>Competitor A launches an AI assistant for enterprise support</title>
+      <link>https://example.com/a1</link>
+      <pubDate>Mon, 14 Sep 2026 09:00:00 GMT</pubDate>
+      <description><![CDATA[<p>Competitor A announced a new AI assistant aimed at enterprise support teams. The product routes tickets automatically and drafts replies. Pricing starts at $49 per seat.</p>]]></description>
+    </item>
+    <item>
+      <guid>https://example.com/a2</guid>
+      <title>Competitor A announces a partnership with a payments provider</title>
+      <link>https://example.com/a2</link>
+      <pubDate>Sun, 13 Sep 2026 12:00:00 GMT</pubDate>
+      <description>The partnership adds embedded checkout to the platform across twelve European markets.</description>
+    </item>
+    <item>
+      <guid>https://example.com/a3</guid>
+      <title>Competitor A raises a Series B round</title>
+      <link>https://example.com/a3</link>
+      <pubDate>Fri, 11 Sep 2026 08:00:00 GMT</pubDate>
+      <description>The round was led by an existing investor and will fund international expansion.</description>
+    </item>
+  </channel>
+</rss>

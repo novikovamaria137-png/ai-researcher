@@ -1,0 +1,25 @@
+# Пресет «Fashion / luxury» — рабочие RSS, проверены при сборке проекта.
+# Запуск: python -m ai_researcher --preset fashion --dry-run
+preset: fashion
+title: "Fashion-рынок — что нового"
+backend: auto
+max_entries_per_source: 20
+max_new_per_source: 6
+state_path: data/seen.fashion.json
+
+sources:
+  - name: WWD
+    rss: https://wwd.com/feed/
+    note: индустриальные новости, сделки, назначения
+
+  - name: Hypebeast
+    rss: https://hypebeast.com/feed
+    note: коллаборации и дропы
+
+  - name: Glossy
+    rss: https://www.glossy.co/feed/
+    note: digital-стратегии брендов, e-commerce
+
+  - name: Vogue Business
+    rss: https://www.voguebusiness.com/feed/rss
+    note: бизнес-аналитика luxury-сегмента
