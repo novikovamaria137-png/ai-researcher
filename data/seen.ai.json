@@ -23,7 +23,8 @@
     "b4d7f60fcea107f4",
     "fb17471ea209ae29",
     "69bdb78bf4e435c2",
-    "758f3b6f05a437aa"
+    "758f3b6f05a437aa",
+    "f604d5f53d0c1701"
   ],
   "Google DeepMind": [
     "ff1bdd0ce2e7fb6c",
@@ -51,7 +52,11 @@
     "8ead8fe562b249aa",
     "760b7f52b7902b25",
     "c9d8f1b4ea9d72d2",
-    "8f5de9db17563ee5"
+    "8f5de9db17563ee5",
+    "5339a7cb7504c1b1",
+    "22300d99752114b0",
+    "e40239bff7565342",
+    "335eec1015dcb921"
   ],
   "Hugging Face": [
     "bdf1aaf72bcd0723",
@@ -95,7 +100,8 @@
     "bfb264db3d277846",
     "d6dc11bd913e1024",
     "0d3ed5ef6a3db47e",
-    "724d61dd39e5a28a"
+    "724d61dd39e5a28a",
+    "b6d93fcaf97b4339"
   ],
   "OpenAI": [
     "82779e7f95d776e9",
@@ -168,6 +174,8 @@
     "b4d3b0c4d25216a0",
     "a1d7653108c01ace",
     "642d5570b53e5e10",
-    "6e8499378cdbe925"
+    "6e8499378cdbe925",
+    "37b6a820ae415031",
+    "979d6e123a43df75"
   ]
 }
