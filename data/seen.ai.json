@@ -56,7 +56,8 @@
     "5339a7cb7504c1b1",
     "22300d99752114b0",
     "e40239bff7565342",
-    "335eec1015dcb921"
+    "335eec1015dcb921",
+    "f25577b7b4f242d2"
   ],
   "Hugging Face": [
     "bdf1aaf72bcd0723",
@@ -102,7 +103,11 @@
     "0d3ed5ef6a3db47e",
     "724d61dd39e5a28a",
     "b6d93fcaf97b4339",
-    "27a458c79d705ee6"
+    "27a458c79d705ee6",
+    "6614b66dca79ec0f",
+    "6333af88c512af11",
+    "69b23fac197f0f52",
+    "3cbf6728f615ea78"
   ],
   "OpenAI": [
     "82779e7f95d776e9",
@@ -181,6 +186,9 @@
     "dc7a2a2aba9c4a0e",
     "2b9b61bca0728856",
     "6caabd36aa6f78a9",
-    "f1f31bcada0b6f38"
+    "f1f31bcada0b6f38",
+    "79ed2a9625c9141c",
+    "e4b4ad01c90b18d0",
+    "1b755d462e665cd4"
   ]
 }
